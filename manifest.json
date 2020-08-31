@@ -1,0 +1,128 @@
+{
+    "routes": [
+      {
+        "title": "Documentation",
+        "heading": true,
+        "routes": [
+          { "title": "Getting Started", "path": "/docs/getting-started.md" },
+          {
+            "title": "About",
+            "open": true,
+            "routes": [
+              {
+                "title": "What is Timecampus",
+                "path": "/docs/about/timecampus.md"
+              },
+              {
+                "title": "Concepts",
+                "path": "/docs/about/concepts.md"
+              },
+              {
+                "title": "Usecases",
+                "path": "/docs/about/usecases.md"
+              }
+            ]
+          },
+          {
+            "title": "Setup",
+            "routes": [
+              {
+                "title": "Web App",
+                "path": "/docs/setup/web.md"
+              },
+              {
+                "title": "Android",
+                "path": "/docs/setup/android.md"
+              },
+              {
+                "title": "iOS",
+                "path": "/docs/setup/ios.md"
+              },
+              {
+                "title": "Windows",
+                "path": "/docs/setup/windows.md"
+              },
+              {
+                "title": "MacOSX",
+                "path": "/docs/setup/macosx.md"
+              },
+              {
+                "title": "Linux",
+                "path": "/docs/setup/linux.md"
+              }
+            ]
+          },
+          {
+            "title": "Timecampus For",
+            "routes": [{
+                    "title": "Users",
+                    "routes": [
+                      {
+                        "title": "Introduction",
+                        "path": "/docs/users/introduction.md"
+                      }]
+                },{
+                    "title": "Organizations",
+                    "routes": [
+                      {
+                        "title": "Introduction",
+                        "path": "/docs/orgs/introduction.md"
+                      }]
+                },{
+                    "title": "Developers",
+                    "routes": [
+                      {
+                        "title": "Introduction",
+                        "path": "/docs/developers/introduction.md"
+                      }]
+                },{
+                    "title": "Partners",
+                    "routes": [
+                      {
+                        "title": "Introduction",
+                        "path": "/docs/partners/introduction.md"
+                      }]
+                }
+            ]
+          },
+          {
+            "title": "Plugins",
+            "routes": [
+                {
+                    "title": "Introduction",
+                    "path": "/docs/plugins/introduction.md"
+                },{
+                    "title": "Directory",
+                    "routes": [
+                      {
+                        "title": "Applets",
+                        "path": "/docs/plugins/applets/intro.md"
+                      }]
+                }
+            ]
+          },
+          {
+            "title": "Guides",
+            "routes": [
+              {
+                "title": "Introduction",
+                "path": "/docs/guides/introduction.md"
+              }
+            ]
+        },{ 
+            "title": "FAQ", 
+            "path": "/docs/help/faq.md" 
+        },{ 
+            "title": "Credits",
+            "routes": [
+                {
+                  "title": "Introduction",
+                  "path": "/docs/credits/website.md"
+                }
+              ] 
+        }
+        ]
+      }
+    ]
+  }
+  
