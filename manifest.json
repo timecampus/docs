@@ -4,22 +4,22 @@
         "title": "Documentation",
         "heading": true,
         "routes": [
-          { "title": "Getting Started", "path": "/docs/getting-started.md" },
+          { "title": "Getting Started", "path": "/getting-started.md" },
           {
             "title": "About",
             "open": true,
             "routes": [
               {
                 "title": "What is Timecampus",
-                "path": "/docs/about/timecampus.md"
+                "path": "/about/timecampus.md"
               },
               {
                 "title": "Concepts",
-                "path": "/docs/about/concepts.md"
+                "path": "/about/concepts.md"
               },
               {
                 "title": "Usecases",
-                "path": "/docs/about/usecases.md"
+                "path": "/about/usecases.md"
               }
             ]
           },
@@ -28,27 +28,27 @@
             "routes": [
               {
                 "title": "Web App",
-                "path": "/docs/setup/web.md"
+                "path": "/setup/web.md"
               },
               {
                 "title": "Android",
-                "path": "/docs/setup/android.md"
+                "path": "/setup/android.md"
               },
               {
                 "title": "iOS",
-                "path": "/docs/setup/ios.md"
+                "path": "/setup/ios.md"
               },
               {
                 "title": "Windows",
-                "path": "/docs/setup/windows.md"
+                "path": "/setup/windows.md"
               },
               {
                 "title": "MacOSX",
-                "path": "/docs/setup/macosx.md"
+                "path": "/setup/macosx.md"
               },
               {
                 "title": "Linux",
-                "path": "/docs/setup/linux.md"
+                "path": "/setup/linux.md"
               }
             ]
           },
@@ -59,28 +59,28 @@
                     "routes": [
                       {
                         "title": "Introduction",
-                        "path": "/docs/users/introduction.md"
+                        "path": "/users/introduction.md"
                       }]
                 },{
                     "title": "Organizations",
                     "routes": [
                       {
                         "title": "Introduction",
-                        "path": "/docs/orgs/introduction.md"
+                        "path": "/orgs/introduction.md"
                       }]
                 },{
                     "title": "Developers",
                     "routes": [
                       {
                         "title": "Introduction",
-                        "path": "/docs/developers/introduction.md"
+                        "path": "/developers/introduction.md"
                       }]
                 },{
                     "title": "Partners",
                     "routes": [
                       {
                         "title": "Introduction",
-                        "path": "/docs/partners/introduction.md"
+                        "path": "/partners/introduction.md"
                       }]
                 }
             ]
@@ -90,13 +90,13 @@
             "routes": [
                 {
                     "title": "Introduction",
-                    "path": "/docs/plugins/introduction.md"
+                    "path": "/plugins/introduction.md"
                 },{
                     "title": "Directory",
                     "routes": [
                       {
                         "title": "Applets",
-                        "path": "/docs/plugins/applets/intro.md"
+                        "path": "/plugins/applets/intro.md"
                       }]
                 }
             ]
@@ -106,18 +106,18 @@
             "routes": [
               {
                 "title": "Introduction",
-                "path": "/docs/guides/introduction.md"
+                "path": "/guides/introduction.md"
               }
             ]
         },{ 
             "title": "FAQ", 
-            "path": "/docs/help/faq.md" 
+            "path": "/help/faq.md" 
         },{ 
             "title": "Credits",
             "routes": [
                 {
                   "title": "Introduction",
-                  "path": "/docs/credits/website.md"
+                  "path": "/credits/website.md"
                 }
               ] 
         }
